@@ -1,0 +1,19 @@
+{ "Ust-OrdaBuryatDistrict" : [
+	["Усть- Ордынский Бурятский Округ","Россия"],
+	["Усть- Ординський Бурятський Округ","Росія"],
+	["Ust-Orda Buryat District","Russia"],
+	{"buryat":69.5,"tatar":3,"ru":27.5}
+],
+"AginskyBuryatAutonomousArea" : [
+	["Агинский Бурятский автономный округ","Россия"],
+	["Агінський Бурятський автономний округ","Росія"],
+	["Aginsky Buryat Autonomous Area","Russia"],
+	{"buryat":62.5,"tatar":1.2,"ru":35}
+],
+"TransbaikalRegion" : [
+	["Забайкальский Край","Россия"],
+	["Забайкальський край","Росія"],
+	["Transbaikal region","Russia"],
+	{"buryat":68,"ru":90}
+]
+}
